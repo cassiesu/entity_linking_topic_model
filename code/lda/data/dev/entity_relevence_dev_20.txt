@@ -1,0 +1,528 @@
+google	Google:0.47915675499370824	Google_Earth:0.2794533368900686
+disneyland special offers	Television_special:0.5611837441826075	Disneyland:0.020068556042850655	Offer:0.012576026423815629
+disneyland	Disneyland_Paris:0.013664369117117409	Disneyland:0.005840875569516562
+anchors resign on air	On-air_resignations:0.9792085540924577	Anchors:0.9751394782550006	Anchor:0.7436997989696692	Glossary_of_chess:0.10012908561164725	Broadcasting:0.08647791323760153
+Anchors resign on air	Anchor:0.9949718770821272	Anchors:0.9346049571100317	Glossary_of_chess:0.6466087570697782	On-air_resignations:0.18283579161887656	Broadcasting:0.12523184134049392
+dirty jobs canceled	Cancellation_(television):0.4475057366014498	List_of_Dirty_Jobs_episodes:0.20041480336945586	Dirty_Jobs:0.05886813083323313
+google	Google:0.162333155530793	Google_Earth:0.11021831335010442
+msn.com	MSN:0.6440066703459039
+American girl dolls	List_of_American_Girl_characters:0.9364139767715792	American_girl_dolls:0.016354865089139345	American_Girl:0.012349541070305269
+New York American Girl dolls price	New_York_(magazine):0.03724859253436821	American_Girl:0.03518882470966259	Buffalo,_New_York:0.03492014265043371	The_Price_(play):0.013415006251187713	New_York_Journal-American:0.013254212430955533
+New York American Girl dolls cost	New_York_(magazine):0.748418926333573	New_York_Journal-American:0.02794112382298399	The_Cost_(The_Wire):0.008032418242396037	American_Girl:0.005203834295396508	New_York_Giants:0.00507624116168413
+American Girl dolls cost $	List_of_American_Girl_characters:0.9998909966776829	Cost:0.09981394704030219	American_Girl:0.018561891769153654
+American Girl doll retail price	American_Girl:0.2052650466826236	Retail:0.10454325431071836	Price:0.10402401752745424	Doll:0.02676634951471843
+American Girl doll wiki	American_Girl:0.9998606106285065	American_Girl_films:0.32441446574756483	Wiki:0.023322252633987267	List_of_American_Girl_characters:0.0053088670261654805
+American Girl wiki	Wiki:0.15021796095294962	American_Girl:0.10678522271952429	American_Girl_films:0.023004147694387047	American_Girl_(film):0.020172430735443753
+hunnington ingalls	Henry_E._Huntington:0.7468662525311633	Ingalls_Shipbuilding:0.32800573463410765	Huntington_Ingalls_Industries:0.18888453970376878
+karl rove's bad night	Evil:0.032975289800147696	Karl_Rove:0.025901017782238946	Karl_Barth:0.0054189574007522424	On_the_Night:0.0053292442459697
+winter storm athena	Winter_storm:0.9998609155155692	Athena:0.1038012913086621	My_Winter_Storm:0.023710114657649745	Winter_Storm_Athena:0.02001036428704504
+"jasper fforde" chronology	Jasper_Fforde:0.18252974596518534	Great_Expectations:0.1220998300038839	Leigh_Delamere_services:0.04561649632377694	Chronology:0.023909591095356654
+"jasper fforde" questions answers contents	Jasper_Fforde:0.10545283547881225	Questions_and_Answers_(TV_series):0.024060804910002766	Curator:0.02187821713421164	The_God_Particle:_If_the_Universe_Is_the_Answer,_What_Is_the_Question:0.015663197750279592
+"jasper fforde" "thursday next" site	Jasper_Fforde:0.13466513374644654	Thursday_Next:0.05978753666772668
+Irving Berlin birthplace	Place_of_birth:0.26141873911417796	List_of_Irving_Berlin_songs:0.23026118886231484	Irving_Berlin:0.1655554989270669
+Irving Berlin list of songs	Irving_Berlin:0.9476108826544418	Avenue_Q:0.9112406458674225	List_of_Irving_Berlin_songs_(chronological):0.816388231754032	List_of_Irving_Berlin_songs:0.26620805479181464
+Irving Berlin complete list of songs	Avenue_Q:0.875612990137082	List_of_Irving_Berlin_songs_(chronological):0.8132299746042985	Complete_metric_space:0.07706717772814262	List_of_Irving_Berlin_songs:0.029897852721506173	Irving_Berlin:0.026971532765085696
+complete list of songs of Irving Berlin	List_of_Irving_Berlin_songs_(chronological):0.9292340635920951	List_of_Irving_Berlin_songs:0.16385376186274375	Avenue_Q:0.132397399732799	List_of_train_songs:0.08828688560795542	Irving_Berlin:0.04533772010059274	Complete_metric_space:0.04209761074436548	List_of_850_Irving_Berlin_songs:0.04063498898629977
+langham creek high school	Langham_Creek_High_School:0.06986305831627268	Cypress_Creek_High_School_(Harris_County,_Texas):0.03266997639975233
+indexed annuity pros cons	Cons:0.9646431113827139	Indexed_annuity:0.5491223178350914	Pros_and_Cons_(TV_series):0.3153950459582581
+indexed annuity rating	Naval_rating:0.5922893531284924	Equity-indexed_annuity:0.5653172309997048	Indexed_annuity:0.3509430234077421
+gun violence in USA	Gun_violence_in_the_United_States:0.9350536147840971	United_States:0.5880893159050041
+gun violence on US college campus	Gun_violence:0.6172127620048979	Students_for_Concealed_Carry_on_Campus:0.3483120758549816	List_of_school_shootings_in_the_United_States:0.04701721077826747	College_basketball:0.04555297784214411	Campus:0.04375538031426402
+gun violence on US campus	Gun_violence:0.11404108945733808	Gun_violence_in_the_United_States:0.06518482430196301	List_of_school_shootings_in_the_United_States:0.020331321676672613	United_States:0.020256157274737577	Campus:0.019971294449707088
+types of gun used in violent events	Gun:0.9312270730256363	Gun_crimes_in_america:0.928335980851328	Amputation:0.9278391208484529	Gun_politics_in_Australia:0.9277273552585504	Party:0.9268466380360142	Violence:0.9262874522515057	Thompson_submachine_gun:0.6046660978106972
+french lick resort and casino	French_Lick,_Indiana:0.999981662311464	Casino:0.9999353835002686	Resort:0.9998232687969453	French_Lick_Resort_Casino:0.9973396018086781	French_Lick_Springs_Hotel:0.393166765391215
+french lick resort and casino discounts	Resort:0.9998049343492511	French_Lick_Resort_Casino:0.9997961982739116	Discounting:0.9977539787586923	Casino:0.9912776558569258	French_Lick,_Indiana:0.3981787606421079
+What are the effects of the ongoing Eurozone crisis on national economic indicators such as unemployment, GDP, public debt, etc	Economic_indicator:0.9999449865981154	European_sovereign-debt_crisis:0.99991704699665	Illegal_drug_trade_in_Colombia:0.9982354869508617	Eurozone_crisis:0.9973213129056957	Austerity:0.9901522625093513	Unemployment:0.9901211827079383	Nationalism:0.8585973625015426	Eurozone:0.3905215446956796	Recession:0.3325466949317823	Greek_government_debt_crisis:0.18984671831488242	Government_debt:0.16455352168947773	Gross_domestic_product:0.006297238278043002	Et_cetera:0.0061976720199763006
+president of the united states email	Email:0.48140628739773295	Freedom_of_Information_Act_(United_States):0.39491934382525734	President_of_the_United_States:0.3903631906567938
+president of the united states contact	President_of_the_United_States:0.9992643700106809	List_of_Presidents_of_the_United_States:0.9974010931796202	Contact_(film):0.9908057766141439	Prime_Minister_of_the_United_States:0.33618962699844257	United_States_presidential_election,_2000:0.24465743858161326	Flag_of_the_United_States:0.009586687183926208
+policies for addressing economic problems in europe	Organisation_for_Economic_Co-operation_and_Development:0.9982708173566267	Europe:0.9901166988049892	One-child_policy:0.33275830832850295	IPv4:0.19006261584068446	Policy:0.006401640025409186	Economy:0.0062242082658829165
+'EUROPEAN UNION" "ECONOMIC CRISIS"	European_Union:0.2324865515942427	European_sovereign-debt_crisis:0.1240599373543639
+'EUROPEAN UNION" "ECONOMIC CRISIS" greece	Greek_government-debt_crisis:0.2385833632137231	Economy_of_Greece:0.1900330997284522	Greece:0.1354962797605627	European_Union:0.09816298646313423	European_sovereign-debt_crisis:0.023649150656264138
+'EUROPEAN UNION" "ECONOMIC CRISIS" portugal	European_Union:0.4975749991331637	Portugal:0.18723112792645033	Economy_of_Portugal:0.024965448932013856	European_sovereign-debt_crisis:0.006400167695843856
+'EUROPEAN UNION" "ECONOMIC CRISIS" spain	2008–2012_Spanish_financial_crisis:0.3877483683900366	2008–14_Spanish_financial_crisis:0.34345034728585605	European_Union:0.3324633792421759	Spain:0.1981864287299258	European_sovereign-debt_crisis:0.10684468728371911
+pseudocyesis	Psychodynamic:0.9982537926179904	Pseudocyesis:0.20777522632649828	False_pregnancy:0.028298905967078066
+pseudocyesis psychology	Psychodynamic:0.15738536987032228	Psychology:0.03660461603627425	False_pregnancy:0.0063048748423361655
+student at mitchell college	Mitchell_College:0.9901899017105772	Student:0.8592036931335661	Joni_Mitchell:0.1624245576377658
+mitchell college	Mitchell_College:0.22669308525550744	Margaret_Mitchell:0.22019080215824302	William_Mitchell_College_of_Law:0.16321178767409075
+Philadelphia attractions	The_Mirage:0.9905938902454877	Philadelphia:0.9901761395714485	The_Real_World:_Philadelphia:0.8560811224685706
+samsung	Samsung:0.8622318389266873	Samsung_Electronics:0.8585942559802363
+windows 2000 sp4	Windows_2000:0.9994200237518096	Windows_Installer:0.92883031935255	SP4_(album):0.006248227830630251
+pa child support	Child_support:0.9994638428216717	Palestinian_National_Authority:0.9290235993822719	Child_sexual_abuse:0.017502704527988647	Child_development:0.01419914960901643
+midwives	Midwifery:0.18532635923664925	Royal_College_of_Midwives:0.019055276679276006
+candidate killed in storm	Murder:0.9289338244414468	United_States_presidential_election,_2008:0.9069896312630821	Gulf_War:0.7417176517830908	Strom_Thurmond:0.32786492778761384	Hurricane_Sandy:0.01560361446916165
+dinosaurs	Dinosaurs_(TV_series):0.21333167917390172	Dinosaur:0.015695914102400507
+dinosaurs pics	Platform_for_Internet_Content_Selection:0.9999722944179594	Dinosauria:0.9160515142602913	Dinosaur:0.7712992172150414	List_of_dinosaurs:0.006308553406940085
+getting organized office	Organized:0.13471987140275887	The_Office_(U.S._TV_series):0.020064949469781622	Organized_Crime:0.011125458476899042	Getting_By:0.006210810825138839
+container store	The_Container_Store:0.7712269565635799	Container:0.7333477692410233
+silicon roof coating	Silicone:0.916460317912932	Silicon:0.9162627615644032	Roof_coating:0.05328783056256198
+silicon roof coating use	Silicon:0.9997677834544613	Metal_roof:0.902852881576456	Roof_coating:0.8672099055010922	Silicone:0.004370481560020961
+silicon roof coating tutorial	Roof_coating:0.9997482814982835	Diode:0.9049695242281134	Solar_cell:0.8678538432284064	Tutorial:0.004648289123745153	Silicon:0.004591041059233518
+roof coating tutorial	Roof:0.0299252668440658	Roof_coating:0.0067291258297422305	Tutorial:0.004406086297780806
+roof coating solutions	Roof_coating:0.9028218674277984	Metal_roof:0.8383706988188925	Solution:0.006785055169688736
+roof coating lower temperature	Cool_roof:0.8667668217203174	Temperature:0.8302933803188074	Mandible:0.4718668980693624	Green_roof:0.17720116605251204	Roof_coating:0.03197080017291053
+glock green laser	Glock:0.8901494725380537	Laser:0.3614891085868662	Viridian_Green_Laser_Sights:0.004442707621949396
+new release dvd	(The)_New_Release:0.11358216657065598	DVD_region_code:0.009839965966960814	DVD:0.009349175473833458	List_of_changes_in_Star_Wars_re-releases:0.006743795388702962
+amazon	Amazons:0.7373248825427419	Amazon.com:0.3056028204512335	Amazon:0.09363623173060415
+sirius xm	Sirius_XM:0.5957114143408769	List_of_XM_Satellite_Radio_channels:0.06554689409205942	Sirius_Satellite_Radio:0.04463122132901869	Sirius_XM_Radio:0.039568821598222455
+pnc online banking	Online_banking:0.8758449178702603	PNC_Financial_Services:0.6930136479532711	PNC_Park:0.5063431708815559	PNC_Bank:0.11218301358854381
+paypal	PayPal:0.6744237425212315
+burger king	Burger_King:0.838548472713247	The_Burger_King:0.06690540441856993
+victoria s secret	Victoria's_Secret:0.0654573626216459	Victoria:0.06159425004238595
+lowes	Lowes:0.8429433114791716	Chad_Lowe:0.25057502952580607	Rob_Lowe:0.10906787135221044	Lowe's:0.023161626442269618
+kmart	Kmart:0.06804003802415771	Kmart_Australia:0.023268964757842493
+big lots	Land_lot:0.21838843728363683	Big_Lots:0.14519386159751121
+gas grills	Grill:0.4321555860265011	Liquefied_petroleum_gas:0.1972431776230924	Barbecue_grill:0.14321845446047338
+big kahuna beach chair	Kahuna:0.13537701682431214	The_Big_Kahuna_(film):0.08374255249217022	Kingdom_Come_(Jay-Z_album):0.05033659657110967
+beach chair	Beach_Chair_(film_test):0.9083592170299382	Beach_Chair:0.2754066681795197	Kingdom_Come_(Jay-Z_album):0.2600547254071463
+rio beach chair	Copacabana_(Rio_de_Janeiro):0.31002682758871725	Kingdom_Come_(Jay-Z_album):0.0893123919385844	Rio_de_Janeiro:0.07589157580343645
+hautelook	Nordstrom:0.3573518907455892	HauteLook:0.17974026026356865
+expedia	Expedia:0.14272859587169742	Expedia,_Inc:0.10644024974551866
+bath and body works	Bath_&_Body_Works:0.02624989985968837	Bath:0.010899451158400943
+disney store	Disney_Store:0.6983004955403241
+sephora	Zipporah:0.8533051378887542	Sephora:0.023219338970526283
+ulta	ULTra:0.5896216051721741	Ulta:0.24347049708922944	Ultras:0.15064478096510514
+power bright inverters	Electric_power:0.6721435852979901	Inverter_(electrical):0.3320946473229703	Power_inverter:0.166772043459009	Brightness:0.06432436315320054	Florida_Power_&_Light:0.018256765707153986
+natural gas bbq conversion	Electric_vehicle_conversion:0.45064524899980607	Natural_gas:0.28363097544058086	Natural_gas_vehicle:0.25334269687990674	Barbecue:0.21893972656877428
+heart attack	Myocardial_infarction:0.38380684702072704	Heart_attack:0.13556180290075406	Heart_attack_(disambiguation):0.09823143916397917
+heart attack treatment	Peptic_ulcer:0.7360049902975645	Heart_failure:0.2632250749434457	Myocardial_infarction:0.24810306838259963
+heart disease	Coronary_heart_disease:0.9421856157234504	Cardiovascular_disease:0.127793950132861	Heart_disease:0.06984461559503165
+target stores	Target_Stores:0.14331532985107873	Department_store:0.12018354691465256	Target_Corporation:0.06344978624642704
+roku remote not working	Remote_control:0.26773253713691053	Employment:0.11573873407129195	Roku:0.06354646204877827	Wii_Remote:0.060169122893922594
+amc stubs promo code	AMC_(TV_channel):0.9649678439462374	Coupon:0.9421863364093276	Method_stub:0.8998308396934902
+man of steel 2013	Man_of_Steel_(film):0.9739051189023348	The_Man_of_Steel_(comics):0.9273644007630759
+man of steel shirtless	The_Man_of_Steel_(comics):0.9349761052246136	Barechestedness:0.8913411698461765	Absorbing_Man:0.8643080483254434	Aquaman:0.5076975198387113
+google translate	Google_Translate:0.9625382731066133	Google_translator_toolkit:0.34297510163207456
+facebook.com	Facebook:0.9867920635778756	History_of_Facebook:0.2785572141653846
+usc shooting	USC_Trojans:0.5925615841697727	UCLA–USC_rivalry:0.27438768237831673	Shooting_at_the_1984_Summer_Olympics:0.24798145322719795	2008_USC_Trojans_football_team:0.23520033499744397
+trendy short hairstyles 2012	Short_story:0.9999477743962897	Hairstyle:0.9906977382613632	Hairstyles:0.9710731306586836	Mohawk_hairstyle:0.8910548700385106	Fashion:0.13877355741014458
+trendy hairstyles 2012	Mohawk_hairstyle:0.9809983146568585	Fashion:0.9710011702614358	Hairstyles:0.8908928553904187	Hairstyle:0.13274268231574468
+poker tournaments	Poker:0.8968232941303376	Poker_tournament:0.1713327226297877
+texas hold em	Texas_hold_'em:0.9909264568372855	Poker_probability_(Texas_hold_'em):0.1386735952195357
+mexican mayor killed	Mayor:0.9980326812175175	Mexican_Drug_War:0.17194582810392317	Mexico:0.15378152748768442	List_of_politicians_killed_in_the_Mexican_Drug_War:0.14277399836187227	Death_of_Joseph_Smith:0.12782215325452456	Mexican_American:0.06391201790213558
+solar panels	Solar_panel:0.9341615811529717	Solar_cell:0.004358582676222476
+solar panels nano-technology	Photovoltaics:0.9275918036230931	Solar_panel:0.8562982339658383	Solar_power:0.1412442091887063	Nanotechnology:0.007437477408919289
+gun control opinions	Gun_control:0.42871749651162017	District_of_Columbia_v._Heller:0.018924849385336097	Precedent:0.011280340285740044
+gun control us government	Gun_politics_in_the_United_States:0.8903180650053977	Federal_government_of_the_United_States:0.8787661185835818	Gun_control:0.16645426570465413
+gun control current affairs	Gun_control:0.9896989465361612	Gun:0.8967828499553232	News:0.16790380037503674
+gun violence us	Gun_violence_in_the_United_States:0.18680631779447304	Gun_violence:0.14908590934797422
+law center to prevent gun violence	Centrism:0.9999192121971019	Bachelor_of_Laws:0.995947633282931	Law_Center_to_Prevent_Gun_Violence:0.990719290663112	Brady_Campaign:0.9643494836748471	Gun_control:0.9178412843421777	Georgetown_University_Law_Center:0.896694690837392	Gun_politics:0.16504375020658504	Gun_violence:0.00878161707844039
+rover's big discovery	Big:0.9061148503440303	Mars_Exploration_Rover:0.9005773355569298	Land_Rover_Discovery:0.8909147388797662	Land_Rover:0.07094481312309316
+fried rice recipes	Recipe:0.08289693037129614	Thai_fried_rice:0.06896696542178941	Fried_rice:0.047909865396859326
+rice recipes	Rice:0.9953756948280914	Glutinous_rice:0.9909058976914172	Rice_Krispies:0.9801983216861129	Recipe:0.18327766487536684
+history crossword puzzles	Crossword:0.9728854569496932	History:0.9647935527005623	Crossword_Puzzle:0.23600516576342465
+history games	History_(TV_channel):0.9961089371932038	Game_theory:0.9274290543394519	History_of_online_games:0.16936101492530747	History_of_video_games:0.01358509154779154
+malaria impact on economy africa	Economy_of_Africa:0.40552671433086	Impact_event:0.16893826586887206	Malaria:0.05262481280111258	DDT:0.02983096968536887
+malaria economy africa	Poverty_in_Africa:0.9198936688259189	Malaria:0.10517468114852908	Economy_of_Africa:0.005561760255750483
+malaria economy	Malaria:0.13996751717547892	Economy:0.10221316373038315	Economic_development:0.03824023428624166
+malaria donations	Blood_donation:0.9927820897835318	World_Malaria_Day:0.9817980405132871	Malaria:0.016079115999363475
+half price books	Half_Price_Books:0.981333372389954	Harry_Potter_and_the_Half-Blood_Prince:0.03268608233405432
+imdb	Microsoft_COM+_IMDB:0.07734513550482632	Internet_Movie_Database:0.015913903876447474	Imdb:0.015627484944415723
+little treasures sale louisville ky	Sales:0.9938677725945707	George_Little_(American_football_coach):0.9908580862074353	List_of_United_States_cities_by_population:0.2245585627398824	Treasures_(Dolly_Parton_album):0.04349678863099117	Louisville,_Kentucky:0.026999464825909505
+baby boy names	Baby_names:0.37548504153198614	Baby_Boy_(film):0.0819981830917515	Egypt:0.04885978391905135	Baby_Boy_(Beyoncé_Knowles_song):0.027615164915911067
+History of FISA	FISA:0.21147330793610292	International_Rowing_Federation:0.03737912057920189	FISA_Amendments_Act_of_2008:0.03253016437134087	FISA_court:0.03172622237894571	Foreign_Intelligence_Surveillance_Act:0.026408801219903244	History_of_rowing:0.016437026879719027	History:0.015630135707770325
+FISA wiretap applications	Xfce:0.9999265221682553	Foreign_Intelligence_Surveillance_Act:0.9988950490282827	Wiretap:0.9957552010746625	FISA:0.1923231686544819	Telephone_tapping:0.010352666447965758
+FISA judges serving term	United_States_Senate:0.9957926650982123	Fédération_Internationale_de_l'Automobile:0.9957065121721165	Judge:0.20678432677294703	Foreign_Intelligence_Surveillance_Act:0.027163753028625358	Foreign_Intelligence_Surveillance_Court:0.013177314312772146
+cal dmv	California_HeatWave:0.26854770989797	California:0.2415404329723792	Dmv.ca.gov:0.19993594527583416	Department_of_Motor_Vehicles:0.16016879444976342	California_Department_of_Motor_Vehicles:0.0760701876549589
+eden's edge	Garden_of_Eden:0.9985589795075103	Edens_Edge_(album):0.025161047062988502	Edens_Edge:0.018578363027118103	Edge_(wrestler):0.016778070277172964
+yahoo! mail	Yahoo!:0.022361944351539195	Yahoo!_Mail:0.00762646765813186
+nook	Barnes_&_Noble_nook:0.9977757410046304	Nook_Color:0.9879722498823845	Nook:0.2627763805094881
+nordstrom	John_W._Nordstrom:0.2635767222825766	Nordstrom:0.24942801210247847
+yahoo! news	Yahoo!_News:0.9853885385740832	Yahoo!:0.034186579938814195
+joseph steffen	Joseph_(son_of_Jacob):0.9829918223179346	Joseph_Conrad:0.9555188810907943	Joseph_Stefan:0.1374223903919266	Britta_Steffen:0.11207141169373142
+"joseph steffen"	Free_Republic:0.6729082344217263	Britta_Steffen:0.4737582143793648	Roanoke_Express:0.3195904746219249	Joseph_(son_of_Jacob):0.01223280652219226
+"joseph steffen" wikipedia	Wikipedia:0.9844285734387727	Joseph_Steffan:0.9396113705094887	Martin_Joseph_O'Malley:0.9176719638496729	Free_Republic:0.9166026659709096	Britta_Steffen:0.733780601061129	Roanoke_Express:0.33035568449130387	Joseph_(son_of_Jacob):0.2394941372309233
+define: menorraghia	Menorrhagia:0.45478099970803093	Menometrorrhagia:0.02713039932733802
+heavy periods operation	Full_stop:0.49054209082235584	Menorrhagia:0.4486397116152326	Heavy_Fire:_Special_Operations:0.31428296290265983	Heavy_bomber:0.08701574043034518	Operation_(mathematics):0.025300272851532985
+lung cancer	Cancer:0.6907951421791347	Lung_cancer:0.5592327256531675
+heidi klum	Heidi_Klum:0.9405245329324124	Klum:0.11011698116892095
+home depot center	Home_Depot_Center:0.38068176860366715	The_Home_Depot_Center:0.14281156532397307	The_Home_Depot:0.010043235739176992
+head lice	Head_louse:0.9274151303647704	Head_lice:0.9216417458687277	Pediculosis_capitis:0.9149258621157905	Head-louse_infestation:0.3387518796294516
+bbt on line banking	Online_banking:0.9992769133047147	BB&T:0.9791218712068819	Bhaktivedanta_Book_Trust:0.4930446284495196	The_Co-operative_Bank:0.3610849797849534
+tea tree oil	Tea:0.36121910600844376	Tea_tree_oil:0.35811425845251277
+tea tree oil shampoo	Shampoo:0.980163364327968	Tea_tree_oil:0.49472735383249056	Tea_tree:0.00985313744770342
+tea tree oil shampoo lice	Tree:0.9684840820052587	Shampoo:0.5132508768198661	Head_louse:0.10462347978236432	Tea_tree_oil:0.014260375009056154
+youtube video	Youtube:0.7177794168340464	Music_video:0.585741605385363	Viral_video:0.53223085362845
+innovation	Diffusion_of_innovations:0.18212563564597317	Innovation:0.14816644833188003
+stagestores.com	Stage_Stores_Inc.:0.22916787907307765	Component_Object_Model:0.10939182007360182	Peebles_(store):0.09797875483391383	Stage_Stores:0.04163303738392615
+new york times square church	The_New_York_Times:0.9829432583442421	New_york:0.8677840884677527	Times_Square:0.2226291769758061	Times_Square_Church:0.05856458352322819
+google	Google_Earth:0.8693604443233381	Google:0.5882418352976906
+oovoo	Ovoo:0.1631330237475798	OoVoo:0.006036295455311964
+virginia tattoos	Tattoo:0.03927909218021142	Military_tattoo:0.03723445193084547	Tattoo_(disambiguation):0.035369009412918026	Colony_of_Virginia:0.015120666768512786
+lance armstrong in effigy	Lance_Armstrong_doping_case:0.9839863871348532	Effigy:0.9619085901924814	Lance_Armstrong:0.9473410976760938
+pocono mountains region	Pocono_Mountain_School_District:0.9737312064010333	List_of_regions_of_Canada:0.9672397787705651	The_Poconos:0.9501998038014488
+pocono mountains region things to do	Thing_(assembly):0.9776187286149117	The_Poconos:0.9598623363727667	List_of_regions_of_Canada:0.9518613249111003	Rocky_Mountains:0.9462955623864708	C_(musical_note):0.937270771516851
+pocono mountains region activities	List_of_regions_of_Canada:0.9841245014053545	The_Poconos:0.9839652109793997	Pocono_Mountain_School_District:0.9821480695460983
+pocono mountains region national park	Pocono_Mountains:0.9797239659376902	Rocky_Mountains:0.979108401575629	List_of_regions_of_Canada:0.9779676897312546	The_Poconos:0.9517045723191397	National_parks_of_Canada:0.057770105306416485
+genting awana hotel	Genting_Highlands:0.9838708178663048	Awana:0.97850773823672	Hotel:0.9683878370099369	Genting_Hotel:0.0270012534136255
+bus	Bus:0.9295133130379536	Bus_(computing):0.0064841404830346975
+pdf converter	Office_Open_XML:0.967000808935613	PDF/A:0.9610733974565415	Catalytic_converter:0.9412574772207841	List_of_PDF_software:0.014669467353153606
+pdf converter online	List_of_PDF_software:0.9987878313137283	Catalytic_converter:0.9550855552775321	Office_Open_XML:0.08811784170052038	Portable_Document_Format:0.015442401388906794	Online_and_offline:0.007180324608135505
+adobe pdf converter	List_of_PDF_software:0.9761218352759574	Office_Open_XML:0.9756203129650305	Portable_Document_Format:0.014808039375158807	Adobe_Acrobat:0.008141592700085121
+adobe pdf converter printer	List_of_PDF_software:0.9663680136205914	Printer_(computing):0.18038632891393272	Portable_Document_Format:0.09009567763899684	Office_Open_XML:0.08347122166353808	PDFCreator:0.07444998196590802
+adobe pdf converter downloads	Uploading_and_downloading:0.04468548874502721	List_of_PDF_software:0.02765621388056435	Office_Open_XML:0.014582963894619546	Adobe_Acrobat:0.01166908037645389	Portable_Document_Format:0.011319300154761285
+free adobe pdf converter	PDF:0.9537280972251303	Portable_Document_Format:0.9529654223301419	Office_Open_XML:0.9522616244390241	List_of_PDF_software:0.9277574182441648	Free_software:0.049038042195331956
+free adobe pdf converter downloads	Free_software:0.9971245834865492	List_of_PDF_software:0.9969848912698539	Uploading_and_downloading:0.9735274534784194	PDF:0.781037890399014	Office_Open_XML:0.10218030068092307	Portable_Document_Format:0.0906524269210647
+adobe pdf converter free download	Office_Open_XML:0.9999481197235757	Free_software:0.967425526721965	Portable_Document_Format:0.9308265606370384	Uploading_and_downloading:0.7693145746186749	List_of_PDF_software:0.03344361486660959	Music_download:0.022294057759859997
+adobe pdf converter driver	Device_driver:0.7896669330901531	Portable_Document_Format:0.21288181366876083	Office_Open_XML:0.20300762304894412	Adobe_Acrobat:0.1512709164401948	List_of_PDF_software:0.03583616583846036
+adobe pdf converter to word	Microsoft_Word:0.9994231966843666	Solid_Converter_PDF:0.9682872493206033	Portable_Document_Format:0.9308443062177214	List_of_PDF_software:0.7696049210473567	Office_Open_XML:0.022379291117098236
+google	Google_Earth:0.7652429271665266	Google:0.06494334565896988
+google maps	Google_Maps:0.9413963952812232	Google_Maps_(application):0.22982977083554476
+google search	Google_Search:0.15505787096678952	Google:0.022369564075021255
+google map	Google_Map_Maker:0.978756879397131	Google_Maps:0.932921230445939	Google:0.9294512091663668
+paradigm mall kelana jaya	Paradigm:0.9993324183528524	Shopping_mall:0.9819857838925742	Petaling_Jaya:0.9523032788032687	Kelana_Jaya:0.21984806428469936
+paradigm mall facebook	Erlang_(programming_language):0.98362130636389	Programming_paradigm:0.9416401074176234	Facebook:0.22036064199078081	Boy_Meets_Girl_(band):0.09155367013329614	National_Mall:0.04457996636472398
+paradigm mall gsc	Shopping_mall:0.9531463920488356	Golden_Screen_Cinemas:0.220014161285946	Paradigm:0.08163582472882812	Main_Page:0.01767253312919401
+paradigm mall kuala lumpur	Kuala_Lumpur:0.37536018001605176	The_Mall_(Kuala_Lumpur):0.25935473854743185	Paradigm:0.18283575642069072	Pavilion_Kuala_Lumpur:0.043896603801615024
+paradigm mall malaysia	The_Mall_(Kuala_Lumpur):0.7750207382040738	List_of_shopping_malls_in_Malaysia:0.7067402808806303	Malaysia:0.3726297684983058	Inflection:0.07056180011470038
+gsc	GSC:0.7708512301680805	GSC_Game_World:0.43984740953581714	Gulf_South_Conference:0.08126822535133695
+free online games	Online_game:0.05125715723353206
+lunette menstrual cup	Lunette:0.8880039917603488	Menstrual_cup:0.8251734838919883
+laxatives	Laxative:0.8905246609493557	Category:Laxatives:0.5923844238726667
+firefox	Firefox_(film):0.8508598568711102	Firefox:0.8088897283879852
+dehumidifier any good?	Dehumidifier:0.9946545697625968	Air_conditioning:0.6698621503036241	Good_(economics):0.21427327757966946
+dehumidifier any good? uk	United_Kingdom:0.8991774863489387	Good_(film):0.7122042870966442	Dehumidifier:0.7020552038481125	UK:0.23357967295518606
+www.cnn news	Nick_Cassavetes:0.99150160280465	CNN:0.22710899625240907
+unsecured no credit check loans	Unsecured_debt:0.38702254245643697	Loan:0.342426172315284	Payday_loan:0.3114200715850725	Credit_score:0.2489545709128042	Credit_history:0.24214504521038038
+Dulles airport	Washington_Dulles_International_Airport:0.5797040471554097	Dulles:0.5288999193177074	Dulles_Airport:0.18427556468653764
+toys r us	Toy:0.344770513498006	Toys_"R"_Us:0.3395788246662945	Toy_Story:0.061387596695702235
+new york state lottery	State_University_of_New_York:0.7425814060215672	New_York_Lottery:0.6895657939011208
+ny state lottery	Lotteries_in_the_United_States:0.8444479345537087	New_York:0.8234875781441687	New_York_Lottery:0.8003446163064494	California_State_Lottery:0.1807968284446792	Lottery:0.1736996037350606
+notebook	Notebook:0.2076148521378556	Netbook:0.14643076013083386
+google maps	Google_Maps:0.41773173893980853	Google_Maps_(application):0.04504290577683846
+injuries forearm pain	Strain_(injury):0.1259561264853108	Injury:0.10738680119113174	Pain:0.09767410102940063	Forearm:0.04889499474841046	Personal_injury:0.04822742580049509
+forearm pain	Pain:0.9657113720405552	Forearm:0.939922032641996	Tendonitis:0.6917342129426293
+firfox	Firefox_OS:0.6877159616618096	Firefox:0.6086926048496495
+diet exercise for fitness	Physical_exercise:0.9874581802945988	Portal:Contents/Health_and_fitness:0.9791400257392523	Diet_(nutrition):0.9671062925391811	Physical_fitness:0.12594371472890267
+fitness wiki	Wiki:0.9487937357933075	Physical_fitness:0.9293650865565047	Fitness:0.10089471520159544
+wikipedia	Main_Page:0.9930704669453663	Wikipedia:Manual_of_Style/Words_to_watch:0.9777203083683683	Wikipedia:Sound/list:0.9442338142969154	Wikipedia:0.03320816041803453
+paleo diet	Paleolithic_diet:0.9277556398599833	Paleo:0.05293859826202687
+keto diet	Ketogenic_diet:0.13392804215336046	Ketone:0.1265835462875298	Diet_(nutrition):0.034949281313722005	Keto:0.029778809715903156
+keto diet wikipedia	Diet:0.9988223509893881	Keto:0.9485178955895511	Wikipedia:0.9435881842848	Ketogenic_diet:0.9430719789713552	7-Keto-DHEA:0.9430713237526888	Ketone:0.9359301674683084	Diet_(nutrition):0.8311898432773043	Cyclic_ketogenic_diet:0.28450736250971104
+exercises for fitness	Physical_exercise:0.9933505732510599	Exercise:0.9928636893788553	Fitness:0.9551825775808833	Physical_fitness:0.8597560021201249
+how to get fit safely	Food_safety:0.9999705290127816	Apollo_13:0.9999123998906971	Safety:0.9459593444829815	How-to:0.9377788787992631	General_fitness_training:0.8619500597196618
+hugh grant	Hugh_Grant:0.946505651085694	Hugh_Grant_(manager):0.8656064468389487
+horse hooves	Horse_hoof:0.8616117319255221	Shuangbaotai:0.8256239393983342	Hooves:0.8228354442310983	Shoeing_(horses):0.1325971651823994
+horse hooves anatomy	Shuangbaotai:0.9492175564744635	Anatomy:0.9459367822847622	Equine_anatomy:0.9197105573572376	Horse_hoof:0.3146219846955578
+internet phone services	Internet_Service_Provider:0.9661847601902454	Voice_over_IP:0.9372988803505322	Internet:0.9302947038926835	Internet_Relay_Chat_services:0.12083832825161071
+internet phone services review	Judicial_review:0.9422139436013545	Internet:0.9373049809320015	Mobile_phone:0.9278490414175724	Customer_service:0.9241412078683313	Voice_over_IP:0.42915417571538234
+guide internet phone services	Internet_Relay_Chat_services:0.2824358224158776	Voice_over_Internet_Protocol:0.13509247843105981	The_Guide_for_the_Perplexed:0.13410587144630345	Voice_over_IP:0.13340869104479638	Internet:0.12087991695924497
+voip providers	VoIP:0.9670936854779666	Internet_service_provider:0.9663674214326708	Mobile_VoIP:0.9655846577064404	Voice_over_IP:0.9050660946162894
+how to quit smoking	How-to:0.9316204502064058	How_I_Quit_Smoking:0.9309870008823611	Smoking:0.9302956297897084	Smoking_cessation:0.2795623168560563
+quiting smoking side effecs	Smoking:0.9998330371898954	Adverse_effect:0.9989845521372406	Smoking_cessation:0.19580447091138334
+quiting smoking side effects	Adverse_effect:0.9989859181600103	Smoking:0.20939454947613265	Smoking_cessation:0.00831691411493612
+quiting smoking using hypnosis	Hypnosis:0.20891995479235784	Smoking:0.011688543306768074	Smoking_cessation:0.00915661577114576
+quiting smoking help	The_Help_(film):0.01136989435541434	Smoking_cessation:0.009471717782890762	Smoking:0.00639968844049732
+websters dictionary	Dictionary:0.9807914403341179	Webster's_Dictionary:0.9741806849550274
+sales interview questions	Point_of_sale:0.999884792630229	Meaning_of_life:0.9998748740506397	Job_interview:0.9898984097125582	Selling_technique:0.9541655761650513
+gmail login	Login:0.9894763824754064	Gmail:0.9891793604937101	Yahoo!_Mail:0.9480986621174873
+monster.com	Monster.com:0.999894655545421	Monster_(manga):0.9540708581743458	Monster:0.6101175559936851
+google.com	Google_Earth:0.953718983441532	Google:0.9533682956369538	Google_Search:0.6316312843950393
+purchasing	Purchasing:0.9968960718596598	Louisiana_Purchase:0.6062780892374646
+yahoo mexico	Yahoo!_Mail:0.6416974394430478	Yahoo!:0.17522950958165198	Mexico:0.14506616840230352
+twitter	Twitter:0.015312170086011254
+twitter com tweets	Twitter:0.11277459159564815
+google search	Google_Search:0.11219920084877752	Google:0.10694895678011877
+thepost	First-past-the-post_voting:0.999304959709063	The_Post-American_World:0.9798342772554277
+cvs	CVS:0.9991681917649126	Concurrent_Versions_System:0.9783561523771314	CVS/pharmacy:0.3867736793545049
+linkedin	LinkedIn:0.9791795106344606
+sphinx destruction	Amenhotep_II:0.9747448946651968	September_11_attacks:0.3885463197386317	Great_Sphinx_of_Giza:0.11645639919389955	Sphinx:0.05705241554116134
+recipes swahili cusine	Italian_cuisine:0.7767050193501609	Indian_cuisine:0.42608605722427045	Cuisine:0.20772772660369684	Recipe:0.07436159981110911	Swahili_language:0.062391769723188065
+wikipedia kenya	Kenya:0.17972527432747845	History_of_Kenya:0.17402094332760026	Wikipedia:0.17398205066139522
+billy scott dies	Die_(manufacturing):0.9827547634041041	Billy_Scott_(footballer_born_1884):0.45698370770048746	Bill_Scott_(voice_actor):0.14999109270076938	Billy_Scott_(singer):0.08091513228657717
+707 gun shop myrtle beach sc	Firearm:0.4570735859703099	Myrtle_Beach,_South_Carolina:0.23948278317444613
+gun shops in myrtle beach sc	Myrtle_Beach,_South_Carolina:0.08709842458661823	Firearm:0.032575045564646486	Myrtle_Beach_Mall:0.022852055813499937
+glock g21 for sale	Glock_Ges.m.b.H.:0.35891935482754167	Glock:0.17143490236104672	For_Sale_(Fool's_Garden_album):0.020034008268554688	G21:0.00886977135859586
+captain george's myrtle beach	George_Washington:0.536886817383687	Captain_(sports):0.3095985707769622	Myrtle_Beach_Pelicans:0.3029697404995275	Myrtle_Beach,_South_Carolina:0.04267901015198856
+does rye bread have wheat in it	Rye:0.8860200304000799	Rye_bread:0.0830368095087688	Wheat:0.04763276798128784
+"greenland high school" new hampshire	New_Hampshire:0.1080560516437639	Secondary_education_in_the_United_States:0.08250274474554116	Greenland:0.048347064610554866	Greenland,_New_Hampshire:0.02651742026418147
+greenland high school new hampshire	Secondary_education_in_the_United_States:0.8079364969852241	Greenland:0.6677676565456813	List_of_high_schools_in_New_Hampshire:0.23383074784759753	Portsmouth_High_School_(New_Hampshire):0.08703731622503008	New_Hampshire:0.023929463432218384
+"greenland high school"	Greenland:0.09251754773278464	Greenland_High_School:0.07871295737150891	Secondary_education:0.06538852975902515	Greenland_School_District:0.0653197371998677
+US tax code 403 (b)	403(b):0.8056952611103421	Ontario_Highway_403:0.2712359181317378	Internal_Revenue_Code:0.050512295509957436	Income_tax:0.040824969489215795
+US tax code 403 (b) eligibility	401(k):0.3337048841649691	National_Football_League_Draft:0.21510953459945986	Medicare_(United_States):0.07056093552872147	Ontario_Highway_403:0.04305450643157813	Internal_Revenue_Code:0.029090031073351737
+purpose driven life warren	Purpose_Driven:0.583902191131045	The_Purpose_Driven_Life:0.1701565346090938	Warren,_Ohio:0.11149567754645547
+obama mccain debate	John_McCain:0.6521824795555973	United_States_presidential_election_debates:0.344537479868559	Barack_Obama:0.2498808990635591	United_States_presidential_election_debates,_2008:0.10649659785839137	Obama:0.07758720757089987
+romania	Romania:0.5507346197530059	Romanian_language:0.020594504499060026
+youtube	Youtube:0.2592130060024944	List_of_YouTube_personalities:0.20739814052148436
+red giant	RED:0.13239770900542103	Red_giant:0.028440167231163493
+jpac	JPAC:0.9394833711466563	Joint_POW/MIA_Accounting_Command:0.2529221517532389	Lili_Damita:0.22026352497703977
+best us destinations	United_Airlines_destinations:0.25577397931578444	C._L._Best:0.0890073665032214	United_States_dollar:0.08169145674022084	Song_(airline):0.05339518328312905	Best_places_in_the_US_to_retire:0.035553140910811944
+distance new york boston	Boston,_New_York:0.2654749178862703	Long-distance_track_event:0.22564474686680022	Boston:0.20299892486761886	New_York:0.1422634207587496	New_York_City_Marathon:0.041255873475690125
+maps.bing.com	Level_(video_gaming):0.6992754283817688	Bing_Maps_Platform:0.6104096681838754	Bing:0.5160512537763962	Bing_Maps:0.1314499666239233
+maps	Map:0.9028649880831675	Mind_map:0.11765983503209686
+bing maps	Bing_Maps:0.637555571598288	Bing:0.05068120832941659
+hartford tourism	Tourism:0.0334942823197131	Hartford_County,_Connecticut:0.024706436122449812	Ecotourism:0.023447461982259363	Hartford:0.023422275066175422
+hartford visitors	Category:Visitor_attractions_in_Hartford,_Connecticut:0.1424841888779365	Visitors_(V_science_fiction_franchise):0.06810015256479461	Hartford:0.05862576026618301	Hartford_County,_Connecticut:0.05374752766797646
+hartford connecticut tourism	Tourism:0.08421510968918414	Connecticut:0.020993148759268446	Hartford,_Connecticut:0.007142595749361583
+hartford boston travel	Hartford,_Connecticut:0.9480584763820817	Travel:0.6886733606149918	Boston:0.16746208103956092
+boston tourism	Boston,_Lincolnshire:0.23550067067706568	Tourism:0.209217925755925	Category:Tourism_in_Boston,_Massachusetts:0.16754776388562478	Boston:0.1659624300451952
+nyc tourism	Tourism:0.9987379921744528	New_York_Central_Railroad:0.9986215294799098	NYC:0.925664809001246	Tourism_in_New_York_City:0.8169072069454205
+philadelphia nyc distance	The_distance_(boxing):0.8137434007087799	New_York_City:0.81284385797333	Triathlon:0.7413879070114534	Philadelphia:0.17747175947393073
+philadelphia washington dc distance	The_distance_(boxing):0.940721991613159	Washington,_DC:0.9366514690947881	Washington,_D.C.:0.10129998596291047	Philadelphia:0.05676711883656555
+philadelphia tourism	Cuisine_of_Philadelphia:0.9995267821397353	Tourism:0.047052729119308884	Philadelphia:0.01997823870203691
+washington dc tourism	Washington_monument:0.10504326375838435	Tourism:0.05147206128369909	Washington,_DC:0.01803817552312389	Washington,_D.C.:0.016710514640790007
+philadelphia nyc travel	Philadelphia_accent:0.1145756781378832	Philadelphia_Experiment:0.10813818289752768	Travel:0.076220237912869	New_York_City:0.06325753874481602	Philadelphia:0.02877910060802844
+philadelphia nyc train	Train:0.4751270367113125	Adirondack_(train):0.3056228522933093	Philadelphia:0.2572510604605268	New_York_City:0.16929412183157136	NYC_Hudson:0.07948882990665672
+philadelphia nyc bus	New_York_City:0.9746620716065146	Bus:0.06627239406742476	Philadelphia_Greyhound_Terminal:0.03424115515859244	Philadelphia:0.014021020363948575
+lolo jones world cup	2011_Rugby_World_Cup:0.7139599465938478	Lolo_Jones:0.16582528619981593	Lori_Jones:0.11604991312316462	2010_FIFA_World_Cup:0.028591548426865794
+w.c.handy	Louis_Armstrong_Plays_W.C._Handy:0.036770726566402304	W._C._Handy:0.012187132144877152
+town of williamstown vt	Williamstown,_Massachusetts:0.1315751994974012	Manchester_(town),_Vermont:0.09769836963057611	Williamstown,_New_York:0.03402508866790295	Williamstown,_Vermont:0.020023379821286453
+pumpkin muffins recipe	Recipe:0.8162525994970848	Muffin:0.6322778439536334	Pumpkin_pie:0.020581128217361435
+uitm jengka	Bandar_Pusat_Jengka:0.39390147882135607	Universiti_Teknologi_MARA:0.07187459024213029	Johor:0.0612348213713699
+water turbines	Water_turbine:0.30720905292851347	Turbine:0.2979668032336865
+water turbines relation to newtons law	Wind_turbine:0.9995393911068657	Water_turbine:0.9994290391551308	Category_of_being:0.9969674427721452	Newtons_law:0.014317868553464388	Newton's_laws_of_motion:0.011069324789479217
+water turbines replace fossil fuels	Fossil_fuel:0.9999641438628882	Gas_turbine:0.9967436186238461	Fossil:0.01813683792037262	Fossil_fuel_power_plant:0.005125478058630848	Water_turbine:0.004212230573837297
+water turbines electricity generation cost per kWh	Kilowatt_hour:0.9998281802524391	Cost_of_electricity_by_source:0.9934642930576401	Water_turbine:0.989972996127036	Electricity_generation:0.06783358421384555	Cost:0.008033939415813122
+effective water turbines types	Switched-mode_power_supply:0.9900068567906456	Water_turbine:0.06965257045309736	Wind_turbine:0.008959445723791508
+comparison of water turbine types	Low_head_hydro_power:0.998564517001601	Water_turbine:0.9970168676024156	Turbine:0.5059719784946368	Comparison_(computer_programming):0.08176595377521015	Switched-mode_power_supply:0.06935753726324718
+highland bakery buckhead	Scottish_Highlands:0.9956975997056585	Buckhead_(Atlanta):0.45389921239920145	Buckhead:0.13730615363918494	Buckhead_Forest:0.02195785830240269	Bakery:0.008819434639456303
+google	Google_Earth:0.9935285689710234	Google:0.8686421917349836
+espn nba finals highlights	2012_NBA_Finals:0.8805469517091683	NBA_on_ESPN:0.1360296501415286	National_Basketball_Association:0.09979304610922467	Highlights_(album):0.03769338221307012
+nba finals highlights	2009_NBA_Finals:0.5322257768742193	National_Basketball_Association:0.4548154212310919	Highlights_(album):0.2728361345126227	NBA_Finals:0.0794321289647073
+Kursk submarine 2000	Russian_submarine_Kursk_explosion:0.9956845608111636	Submarine:0.14124953101736593	Russian_submarine_K-141_Kursk:0.02656422397729751
+Kursk submarine 2000 politics	Politics:0.9974278492804867	Russian_submarine_Kursk_explosion:0.14513456527807492	Submarine:0.13721003172493001	Kursk_submarine_disaster:0.02395115722594983	Russian_submarine_K-141_Kursk:0.012503304377978286	Russian_submarine_Kursk_(K-141):0.008819457185344324
+resting heart rate	Heart_rate_monitor:0.9995777715863317	Heart_rate:0.013846819703240414
+heart rate blood pressure cholesterol	High_blood_pressure:0.9456713471217276	Cholesterol:0.14237001217226522	Blood_pressure:0.02149516454567382	Heart_rate:0.009313158922164281
+earthquake hits japan	Earthquake:0.2612769207124795	Japan:0.15905450131674045	Japan_earthquake_2011:0.13345786932249165	Japan_earthquake:0.01766955194160133	Hits+:0.014737784996297762
+yahoo mail	Yahoo!_Mail:0.25029854903771265	Yahoo!:0.06543846988904016
+iphone	IPhone:0.960258395810744	History_of_the_iPhone:0.15815468509805436
+iphone 5	IPhone:0.17546777137687153	IPhone_5:0.1422405060214273
+jim mora	Jim_L._Mora:0.9529467681515709	Jim_E._Mora:0.9462467321191803
+yahoo! mail	Yahoo!:0.9999503253323501	Yahoo!_Mail:0.999221062552568
+Yahoo! Mail	Yahoo!_Mail:0.99907550529759	Yahoo!:0.4572550704770402
+yahoo login	Yahoo!:0.9958426689146749	Login:0.43010261425051105	Yahoo!_Mail:0.12761475834675354
+yahoo mail login	Yahoo!_Mail:0.883787684674083	Login:0.4948305602789618	Yahoo!:0.48720351831256536
+check my yahoo mail	Yahoo!:0.26438988424015886	Yahoo!_Mail:0.19148313522949692	Cheque:0.16401157596739682
+yahoo london	London:0.47668810081080826	Yahoo!:0.0783995597673747
+yahoo long distance	Long-distance_relationship:0.8860906715747396	Yahoo!:0.8714440057889304	Long-distance_calling:0.42749391080124616	Long-range_Wi-Fi:0.04405557204896118
+yahoo	Yahoo!:0.029352009522509846
+fourth wedding anniversary gift	Wedding_anniversary:0.22373955358426706	Anniversary:0.014632578075008127	Perfect_fourth:0.010840163774635807
+travis poter	Travis_Porter_discography:0.7250734940132952	Randy_Travis:0.03780077647388612	Travis_Porter:0.01004547203000203
+google	Google:0.6239271630238639	Google_Earth:0.610139065936785
+combat boots for women	Woman:0.9751193411216496	Boot:0.9698715772583726	Combat_boot:0.2902101827979837
+att.com	Main_Page:0.9611609221712409	AT&T:0.2462290157632355	At_the_Gates:0.06133205279825587
+web hosting services small business	Web_hosting_service:0.3311500495970784	Small_business:0.17487057342734133	Internet_hosting_service:0.05783057279305891	Comparison_of_free_web_hosting_services:0.03399766791679079
+web hosting	Web_hosting_service:0.11721098962524763	Free_web_hosting_service:0.025852547846498302
+google images	Google_Maps:0.7297520109480462	Google_Images:0.6965570255795578
+google	Google:0.7554346687978204	Google_Earth:0.7026705767410191
+moviefone	June_Duprez:0.7598116066620676	Moviefone:0.759328956719486
+papaqui soccer	Association_football:0.9151273200260496
+lowes.com	Rob_Lowe:0.28624445919710917	Lowe's:0.06874624953629477	Chad_Lowe:0.027972716785581796
+lowes	Lowe's:0.5544991802542731	Chad_Lowe:0.3770316496689947	Lowes:0.3388912628282745	Rob_Lowe:0.0877254048147905
+zero hedge	Tyler_Durden:0.6303222302408448	Zero_Hedge:0.23079526683592777
+pacific mailorder christchurch	Mail_order:0.8034113899336398	Christchurch:0.07201259507919222	Pacific_Plate:0.05784293160384858	2011_Christchurch_earthquake:0.036650675725167815	Oceania:0.027126916500767154
+sample tube sealing	Seal_hunting:0.30847147175711764	Sample_(material):0.2637024536729603	Test_tube:0.20210177928944156
+sample tube sealing services	Seal_(emblem):0.9502712079678985	Oscilloscope:0.93453500415935	Test_tube:0.9223918027061347	Grand_Falls-Windsor:0.8831238029473713	Internet:0.3882962435651727
+sample tube sealing expert	Test_tube:0.9915450456358784	Oscilloscope:0.9515798798858089	Seal_hunting:0.9486707880989194	Expert:0.35233786993930005	Internet:0.06918122350305385
+self-regulating house temperature	Room_temperature:0.9353327683163205	House:0.9264372474234609	Temperature:0.3239240664246226	Homeostasis:0.052256284975505655	Passive_house:0.04500746141803785
+passive solar cooling	Passive_solar_building_design:0.9657937190428858	Passive_cooling:0.35278510046386413	Solar_air_conditioning:0.04279050388620603
+passive solar cooling :uk	United_Kingdom:0.8522249091815017	Passive_cooling:0.39552366341883993	Passive_solar:0.1161630044052344	Solar_air_conditioning:0.10750268694541365	Passive_solar_building_design:0.10627133628301565
+radiant barrier	Thermal_barrier_coating:0.8829444073636639	Radiant_barrier:0.8556593854648693
+radiant barrier :uk	United_Kingdom:0.9950846236760502	J._M._Barrie:0.6608179428700544	Radiant_barrier:0.5245608872705231
+facebook sign up	History_of_Facebook:0.6812399321391609	Up_(2009_film):0.5455609880382644	Facebook.com:0.5037892504181005	Facebook:0.0945753979935928	Sign:0.03798803262385143
+obama gun control	Barack_Obama:0.3085282026964532	Gun_politics_in_the_United_States:0.28035425437080747	Gun_control:0.05600041644020083
+gun control laws obama	Barack_Obama_social_policy:0.527961898670908	Legislation:0.09864468755734244	Barack_Obama:0.07675709288765241	Gun_politics_in_the_United_States:0.06287281820613017	Gun_control:0.011992664200794085
+training   management	Management:0.9239555985882777	Training:0.07006418857623921
+training   management   hotels?	Hotel:0.7853256686742728	Management:0.7717881183926245	Training:0.3076923505176273	Project_management:0.049474497961777386
+training   management    benefits?	Training:0.3726911196159544	Management:0.3705371899547545	Project_management:0.2556754172129066	Employee_benefit:0.17838274766150644
+why   training   management    benefits?	Change_management:0.8944650876352914	Employee_benefit:0.398788036345769	Management:0.388458871083123	Training:0.38476928999693716	Why_(The_Byrds_song):0.37153473282983257
+why  management studies   benefits?	Management:0.33835817252012695	Benefits_Realisation_Management:0.26984528839871147	Why_(3T_song):0.09306086527755074	Employee_benefit:0.08191763092094027	Human_resource_management:0.07483617199890981
+why  management studies  benefits?	Employee_benefit:0.9679421665611287	Management:0.966750368474269	Why_(3T_song):0.3964318472488425	Human_resource_management:0.33820679466354037	Benefits_Realisation_Management:0.29379110793934016
+qualifications   management degree?	Management:0.9467292624062574	Academic_degree:0.5118400870988355	Management_accounting:0.3426910556233216	Professional_certification:0.2753903708735782
+degree    hotel management?	Academic_degree:0.9699569972701326	Hospitality_management_studies:0.23051940466661267	Hotel_manager:0.10551076125835741
+why is internet phone service great	Internet:0.9656258823078026	Voice_over_IP:0.2678826470560919	History_of_the_Internet:0.15010518152648414	Why?_(American_band):0.14965578750014372
+why internet phone service great	Internet:0.39980677943399795	Voice_over_IP:0.3979218963457211	History_of_the_Internet:0.19839577623937377	Why?_(American_band):0.15683496942282904
+2005 presidential election in Egypt	Egyptian_parliamentary_election,_2005:0.999799241400091	Egyptian_presidential_election,_2005:0.07122551649029697	Iranian_presidential_election,_2005:0.006545869690148288	Egyptian_presidential_election,_2012:0.005745886453152345	Egypt:0.004086520434536716
+2005 presidential election in Egypt, forgery	Egypt:0.9850286373267723	Egyptian_presidential_election,_2005:0.977590901493594	Iranian_presidential_election,_2005:0.9459108605815768	Archaeological_forgery:0.3692816280507981	Egyptian_parliamentary_election,_2005:0.004675229031770884
+2005 presidential election, Egypt, poster cost	Egypt:0.19339190317777347	Elections_in_Egypt:0.07100297480397337	Propaganda:0.019153516734360197	Egyptian_presidential_election,_2005:0.017869796377953797	Iranian_presidential_election,_2005:0.008174356895732905	European_Cooperation_in_Science_and_Technology:0.006712011112420791
+us map	U.S._state:0.9374118430842838	USA_Today:0.9249742842773996	Google_Maps:0.5105137816694283
+us map states and capitals	United_States_public_debt:0.9920893197413874	U.S._state:0.970766293511201	Capital_city:0.9426679468368371	Red_states_and_blue_states:0.40757223941430815
+"State university of new york" bioinformatics	Bioinformatics:0.9761408059810558	University_at_Buffalo,_The_State_University_of_New_York:0.9246355380785191	Informatics:0.3821446837209792
+"State university of new york"	State_University_of_New_York:0.4496174303789562	State_University_of_New_York_at_New_Paltz:0.3781230459259359
+"silicone roof coating" alternatives cooling	Global_cooling:0.9234600843621503	Alternatives:0.91418468100174	Roof_coating:0.34754797158308	Silicone:0.25240305706680116	Computer_cooling:0.028497107980205365	Alternative_energy:0.024261078984655682
+"silicone roof coating" alternatives	Roof_coating:0.23239734668316014	Alternatives:0.18213731428495797	Silicone:0.03234919784580842
+bobby hebert booted	Bobby_Hebert:0.7205861916912004	Booting:0.08047482819062454
+loretta swit turns 75	Turn_(geometry):0.43653941091833115	Loretta_Swit:0.4219896654079027	A_Modest_Proposal:0.23551524651523445	Taylor_Swift:0.20906430370548768
+mariano rivera decision	Mariano_Rajoy:0.474641903947761	Mariano_Rivera:0.3786890041786972	Win–loss_record_(pitching):0.27541778959740887
+legality alcohol marijuana	Cannabis_(drug):0.09016013771760477	Legality_of_cannabis:0.06030201005256778	Law:0.053056498364207574	Legality_of_cannabis_by_country:0.0256615531943107	Alcohol:0.009441834468471738
+legality alcohol marijuana history	History_(TV_channel):0.993919569810121	Cannabis_(drug):0.7647260790565555	Legality_of_cannabis:0.7292162913247413	Legality_of_cannabis_by_country:0.46726047041055657	Law:0.31076607526821226	Legal_history_of_marijuana_in_the_United_States:0.012582434000184068	Alcohol:0.01220429932670012
+legality alcohol history	Absinthe:0.7914547941263258	Law:0.7911437324027605	History:0.769756823000103	Alcohol:0.3995297149031677	Alcoholic_beverage:0.37200058588350193	Alcohol_law:0.015263751166853448	Legality_of_cannabis:0.01204364728947666
+legality alcohol history maijuana	Legal_history_of_marijuana_in_the_United_States:0.9992914943623529	Alcohol:0.7559116721467272	Law:0.23641399775393787	Legality_of_cannabis_by_country:0.1586437853148933	Legality_of_cannabis:0.014338648787476753	History:0.0055760316145535135
+legality alcohol history marijuana	History_(TV_channel):0.7485474677765889	Law:0.5421842892052938	Alcohol:0.37767727893480374	Cannabis_(drug):0.31820402639628853	Legal_history_of_marijuana_in_the_United_States:0.3166793203760938	Legality_of_cannabis_by_country:0.30222931690298066	Legality_of_cannabis:0.04080363113416432
+why is marijuana illegal?	Illegal_drug_trade:0.7413735668154657	Cannabis_(drug):0.4277460526867167	Why_(The_Byrds_song):0.014779189657246849
+is marijuana worse for your health than alcohol?	Your_Health_Now:0.5871711797029181	Alcohol:0.39787475892205215	Cannabis_(drug):0.23661564521057366	Health:0.08668692441912673
+god does not exist	Existence_of_God:0.7105461918553732	God_in_Islam:0.20958280343920452	God:0.15196230625584203
+liverpool news	The_Liverpool_News:0.025654879705148282	Liverpool:0.012692980032520982	Liverpool,_New_South_Wales:0.005250047688158628
+liverpool news now	The_Liverpool_News:0.9933337767965825	Now_That's_What_I_Call_Music!:0.867842170015933	Liverpool_F.C.:0.040220915694485465	Liverpool:0.005279006558574963
+cate blanchett role	Elizabeth_(film):0.48574298972782454	Cate_Blanchett:0.020998083845687843
+Cate Blanchett role	Cate_Blanchett:0.8713081164118364	Elizabeth_(film):0.027670476681981533
+american standard toilet	Toilet:0.03898563273778394	American_Standard_Brands:0.03376484695947056	Cinema_of_the_United_States:0.007569653364061395
+toilet	Toilet_paper:0.9926365058634538	Toilet:0.9779625705140143
+texas secession	Texas_secession_movements:0.9780542585025571	Texas_Secession_Movement:0.9775235888992763	Secession:0.7250351265744265	Secession_in_the_United_States:0.6047703902321294	Texas:0.2768742545695981
+fitness regime	Physical_fitness:0.9754578797276613	Diet_(nutrition):0.7415728678806176	Fitness_center:0.49989774656715463	Government:0.2857356476608911
+running a half marathon	Marathon:0.8526706890648167	Half_marathon:0.7210221183517025	Running:0.3854761182859865
+orange county convention center	Orange_County_Convention_Center:0.6127412375568234	Orange_County_Government_Center:0.17685155215255113
+orange county convention center events	Orange_County_Convention_Center:0.9654045423203009	Orange_County,_Indiana:0.7045885618718601	Orange_County,_California:0.282032045460011	Baton_Rouge,_Louisiana:0.27304722529285214
+mitchell college athletics	Mitchell_College:0.8636932989697392	Track_and_field:0.5516094244436512	College_athletics:0.27612771479935094	Dan_Mara:0.2738170145057042
+mitchell college admissions	University_and_college_admission:0.9763393409310387	Medical_College_Admission_Test:0.7050121038071082	Mitchell_College:0.255931298239951
+microsoft tablet surface	Microsoft:0.5267125319550733	Microsoft_Surface:0.4950237256634825	Tablet_computer:0.2592295615735552	Microsoft_Tablet_PC:0.23954870297037076
+black powder ammunition	Ammunition:0.9921628238412991	Smokeless_powder:0.7100347866334045	Black_powder_cartridge:0.7097061611233874	Gunpowder:0.037558097597390844
+wikipedia black powder	Black_powder:0.9929425667303143	Wikipedia:0.9736588537821602	Black_powder_substitute:0.8156393155499546	Brown_powder:0.6338218660020871	Gunpowder:0.033277429088023884	Black_pudding:0.026742653684143067
+black powder inventor	Gunpowder:0.6467057481137353	Invention:0.6363374246548558	History_of_gunpowder:0.027151248792156028	Smokeless_powder:0.017966709466516746
+Kansas attractions	Kansas_City:0.8261047424809875	Kansas:0.06276900743824243	The_Mirage:0.04435227785274356	Kansas_(band):0.015803638714702143
+VOIP	Voice_over_IP:0.9755291948741571	VoIP:0.8402739461543928	Mobile_VoIP:0.08038352485235466
+VOIP lietuva	4G:0.8216729831105997	Lithuania:0.09847811581181808	Voice_over_IP:0.03697360719875411
+VOIP paslaugos lietuva	Voice_over_IP:0.14299917097209608	4G:0.08456047256992077	Lithuania:0.01755272111520191
+ip telefonijos paslaugos	Winsock_LSP:0.18704017488169286	Internet_Protocol:0.059593790959908736
+ip telefonija	VoIP_phone:0.22865447087225874	Internet_Protocol:0.20848323435330607
+ip telefonija kaunas	Kaunas:0.9981497198505782	Internet_Protocol:0.996107725168962	VoIP_phone:0.3878364718449185
+ip telefonas	Internet_Protocol:0.40330071995820344	Telephone:0.38784839854312536	Voice_over_IP:0.3858805203390696
+ip balso telefonija	Domino's_Pizza:0.9979257448472755	Internet_Protocol:0.9973703158235936
+voip telefonas	Voice_over_IP:0.9996221379158583	Telefon_(film):0.9881457525187334	VoIP:0.8935744397019018	VoIP_phone:0.5636170264864411
+honda pilot 2014	Honda:0.9881968870418985	Honda_Pilot:0.561365390960509
+future honda pilot 2014	Future:0.8546457295641766	Honda:0.6376009973067596	Honda_Pilot:0.5901525573181127
+future honda pilot	Honda_Pilot:0.8925749855007229	Future:0.8850304052277725	Honda_Pilot_(ATV):0.14198323036175908
+dwts elimination	Dancing_with_the_Stars_(U.S._season_13):0.7695915735002216	Dancing_with_the_Stars_(U.S._TV_series):0.640706451511215	Professional_wrestling_match_types:0.29077482012920675	Dancing_with_the_Stars:0.037975419341724
+asthma	Asthma:0.9542992965385665	Inhaler:0.13503245605890632
+hotmail	MSN:0.22639911307401167	Hotmail:0.04764575306267806
+hot	H.O.T.:0.24982395798523965	Billboard_Hot_100:0.013773217247958667	Hot:0.009725558432230495
+merrill	Merrill_Lynch:0.9982444868815873	Merrill,_Wisconsin:0.7162713696646889
+merrill lynch online	Investing_online:0.999965991846437	Merrill_Lynch:0.9911470635846021	Bank_of_America_Merrill_Lynch:0.7009691266802225
+designer dogs	Dog_hybrid:0.7296489540685671	Dog:0.708381858370882	Designer_dog:0.7021509587812529
+designer dogs types	Dog_type:0.9998967180387306	Dog_hybrid:0.9997995798712038	Designer_dog:0.9996147732858144	List_of_dog_breeds:0.9913278574373487
+preventing employee fraud in recession	Employment:0.9970945312749218	Fraud:0.9917587474100064	Employee_benefit:0.9910874425332427	Recession:0.9909656751195036
+recession employee fraud	Employee_benefit:0.9996616268976505	Employment:0.9995944971509944	Recession:0.9995147494468917	Fraud:0.9949880096329066
+employee fraud best practice	Employment:0.9998223650608383	Best_practice:0.9997097437890787	Fraud:0.9948568437469283
+"employee fraud" "best practice"	Employment:0.9999749887182375	Fraud:0.999894874992835	Best_practice:0.9951198898063035
+fabric glue	Adhesive:0.9950233377902055	Glue-size:0.994969667456134	Textile:0.9949215176405831	Glue:0.034131951549572624	Cyanoacrylate:0.01600123687584412
+fabric adhesive	Textile:0.9999002649671684	Adhesive:0.9998539292144318	Moleskin:0.017615698599298447	Fevicol:0.014139640868438098
+portland	Portland,_Maine:0.9998719565872243	Portland:0.016230973330713303	Portland,_Oregon:0.014069553824669193
+infinity dish	Cylinder_(geometry):0.041297235027793776	The_Dish:0.021018115532303334	Canadian_cuisine:0.017888845147885347	Infinity_Broadcasting_Corporation:0.008488594084241506
+flame pics	Platform_for_Internet_Content_Selection:0.9592226494990758	Flames_of_War:0.9542040600957045	Flame:0.9020397866520092	Flame_(rapper):0.06231755814356098
+flames decals	List_of_Mini_limited_editions:0.9973948278890378	In_Flames:0.932966530487044	Decal:0.027640369723605177	Flame_(Bell_X1_song):0.02173704499531526
+best penpal sites	The_Best_(song):0.9340796831359501	Pen_pal:0.04286045455573331	Best:0.037588147594063655
+anne hathaway	Anne_Hathaway:0.052894064108711385	Anne_Hathaway_(Shakespeare's_wife):0.05005055553947615
+Anne Hathaway	Anne_Hathaway:0.9804439062704734	Anne_Hathaway_(Shakespeare's_wife):0.9186450133903019
+dooney and bourke imitations	Imitation:0.9758892544518765	Talk:Dooney_&_Bourke:0.9271639086403326	Dooney_&_Bourke:0.009881645389105447
+dooney and bourke replicas	Dooney_&_Bourke:0.9337400110646208	Replicas_(album):0.059530965436981886
+dooney and bourke replicas makers	Replicas_(album):0.1297399869955403	Dooney_&_Bourke:0.051455931016746496	The_Makers_(American_band):0.0121081116849286
+solo's husband in jail	Husband:0.9334965434979057	Solo_(music):0.4399583576768732	Hope_Solo:0.11407095858760535	Prison:0.032826801448355855	Wu-Tang_Clan:0.010155325183864077
+facebook	History_of_Facebook:0.8535949089871647	Facebook:0.018490350978441927
+craigslist	Craigslist_Joe:0.4922671976846223	Craigslist:0.22277608909777552
+latest lakers rumors	Kobe_Bryant:0.4453009165228364	Los_Angeles_Lakers:0.04926206941095099	Rumors:0.03663035018094188
+cal lottery	California:0.7756824684925255	Lottery:0.7322188894160163	California_State_Lottery:0.7155031289941537	NBA_Draft_Lottery:0.4876419338123214
+workplace diversity	Diversity_(business):0.9428993077386998	Workplace:0.7773225585784024	Workplace_diversity:0.3158874892906003
+diversity training	Diversity_training:0.7781322242472437	Diversity:0.1878485543842865
+zig ziglar dies	Zig_Ziglar:0.8144821098020885	Death:0.7294190249075143
+patent application	Patent:0.9597093214941426	Patent_application:0.3470767575393586
+the current	Voltage:0.6093251910743176	Diode:0.4933116428348479	The_Current_(song):0.28873580439709345	Electric_current:0.013868440374795218
+the current jersey	The_Current_(song):0.9598240066940015	The_Real_Housewives_of_New_Jersey:0.7208998747202614	The_Current_and_Gazette_newspapers_of_New_Jersey:0.08798863840250769	Jersey:0.03251264806893005
+facebook	History_of_Facebook:0.6166408024214042	Facebook:0.008671470079109808
+freshman player dies	Lamar_Odom:0.1314935458600855	Death:0.09850577791024566	Student:0.039779991953201574	Redshirt_(college_sports):0.02139312361806447	Sportsperson:0.019087190123063143
+philippine daily inquirer	Philippines:0.4532200466548034	Philippine_Daily_Inquirer:0.4183876724531439
+cinque terre accommodation	Hotel:0.9838964741666872	Cinque:0.968912679278848	Cinque_Terre:0.053609510136770316
+women  and minorities percentage setting	Tracking_(education):0.9884692244855543	Minority_group:0.9862131662781837	Minority_Report_(film):0.06266376679389055	Percentage:0.02804445242917678	Women:0.01570147209840531	Human_trafficking:0.007441216632250345
+should numbers of women and minorities in workplace be contolled	Women_in_Islam:0.25905517048301346	Number_of_the_Beast:0.03457322498050073	Women_in_the_workforce:0.010632987646001044	Woman:0.00788785548635148	Minority_group:0.007849426805500319	Grammatical_number:0.007313009188406911	Employment:0.006986433680889926
+nicholas hoult	Nicholas_Hoult:0.9990845472817237
+trust	Trust_(social_sciences):0.04143963923757719	Trust:0.04128037119993403	Trust_law:0.029279894838321226
+attorney at law	Attorney:0.5566253623306477	Attorney_at_law:0.06547430875333986	Lawyer:0.04061583306017631
+st joseph university philadelphia pa	Saint_Joseph_University:0.7839378172840747	Sisters_of_St._Joseph:0.7832994902448901	Saint_Joseph's_University:0.7717232989380052	Philadelphia:0.11202928943063875
+amazon black friday 2012	Black_Friday_(Faderhead_album):0.9863519193767137	Black_Friday_(shopping):0.985505130614978	Amazon.com:0.0414277486523499
+sheen offers role	Michael_Sheen:0.9990795157754174	Charlie_Sheen:0.02858692818285786
+Sheen offers role	Michael_Sheen:0.03039620672032108	Charlie_Sheen:0.020453739031945098
+camacho funeral brawl	Boxing:0.8488328170110901	Funeral_(album):0.8475245775982924	Héctor_Camacho:0.22088048816128775
+reserve orange county convention center	Orange_County,_California:0.988050271939475	Indian_reserve:0.9624762844184364	Orange_County_Convention_Center:0.22484065071002038
+orange county convention center events	Orange_County_Convention_Center:0.30427041592995296	Orange_County,_California:0.21561280978016004	Baton_Rouge,_Louisiana:0.21136483378177562	Orange_County,_Indiana:0.18568537381385486
+rockets james harden	James_Harden:0.9959303066944162	Houston_Rockets:0.9605093743469403
+rocketdog shoes	Rocket_Dog:0.9647430544633562	Category:Shoe_companies_of_the_United_States:0.9466724962328826	Shoe:0.7202823020228432
+dicks	The_Dicks:0.9766831803089092	Dicks:0.683844843955873
+womens adidas bounce	Jonas_Brothers:0.6840046403534198	Adidas:0.6804724800103349	Wiki:0.671998516942163	Woman:0.031817215403350314
+macys	Macy:0.9789122782618322	Macy's:0.9740075352880875	Macys:0.029055919971201768
+Red Bull AND health	Red_Bull_Racing:0.25538274121963	Red_Bull:0.027749446685222754	Health:0.021220901752391275
+Red Bull	Red_Bull:0.9928283167310693	Red_Bull_Racing:0.018023488685117828
+red bull	Red_Bull_Racing:0.17427534191648025	Red_Bull:0.011517701253789422
+red bull effects	Red_Bull_Stratos:0.9879076086465025	Red_Bull:0.8965046541311888	Alcohol_intoxication:0.8931321503939869
+red bull drink	New_York_Red_Bulls:0.985483403212353	Red_Bull:0.9753574455830094	Drink:0.8286340924510607
+red bull ingridients	Ingredient:0.9861548995987545	Red_Bull_Cola:0.9787476413645786	Red_Bull:0.8313825765285452
+red bull ingredients	New_York_Red_Bulls:0.8484735835995237	Red_Bull:0.8311875046519323	Ingredient:0.22777979627543057
+red bull in US	Pit_Bull:0.9934109309547915	Red_Bull:0.02933747143707871	.us:0.016112804470917806
+apple's insane sell-off	Apple_Inc.:0.05795754164954649	Relapse_(Eminem_album):0.048215906196497745
+girl slept for 64 days	Sleep_deprivation:0.6621758385013797	Girl:0.5880631010868034	Sleep:0.49546807366924894
+history of music	History_of_music:0.9362018183221084	Music_history:0.44052752512632126	History_of_modernisation_theory:0.3364698260998215	History_of_classical_music_traditions:0.3190157210224323
+who invented the radio	WHO_(AM):0.5699319602373007	Invention:0.5697652632190293	Radio:0.4280113898993966	Invention_of_radio:0.3346596616911109	Philo_Farnsworth:0.014124974428681413
+adopting a dog	Adopting_a_dog:0.5387635168194531	Pet_adoption:0.46511739451004697	Adoption:0.16270749480034744
+humane society	Humane_society:0.94186859693153	Society:0.10580606201646406	Human:0.013023035074036309	Humane_Society_of_the_United_States:0.012466631297828847
+black powder ammunition wiki	Wiki:0.07372551404060604	Gunpowder:0.044845253685205665	Black_powder_cartridge:0.016608286744489966	Ammunition:0.015324193796041998	Black_powder:0.014414581170657496
+gun powder wiki	Gunpowder:0.014067984608848646	Gunpowder_Plot:0.01226738378031801	History_of_gunpowder:0.011156213871620076	Wiki:0.009702848613487093
+inventor of gunpowder	Invention_of_radio:0.9943739334348961	Invention:0.9933620697841076	Gunpowder:0.9930414232298398	History_of_gunpowder:0.9862725966425124	List_of_inventors:0.5917640943944861
+usage of gunpowder	History_of_gunpowder:0.9974370451292335	Gunpowder:0.9949171240731287	Usage:0.992891046989846
+history of gunpowder use	Gunpowder:0.9916120466102606	History_of_gunpowder:0.9899366138266347
+french test online	Test:0.9965073264983518	French:0.9901374694445547	French_language:0.969601255356034	Test_(assessment):0.6005694353886204	Internet:0.021360507044571937
+french test for beginners	Test_(assessment):0.9882738867098085	French_for_Beginners:0.9732886572271258	Beginners:0.6038119789110002	France:0.02242785273350836
+jim mora	Jim_L._Mora:0.6836076832887944	Jim_E._Mora:0.642289826623511
+cambridge	Cambridge:0.9851329095466801	University_of_Cambridge:0.01853433325339073
+cambridge engineering	Engineering:0.028616997921744863	University_of_Cambridge:0.020707810428302678	Cambridge_University_Engineering_Department:0.017667431460060532
+cambridge english test	Cambridge_Young_Learners_English_Tests:0.9881861573092758	England:0.9874889112621401	Preliminary_English_Test:0.9862635844483661	Cambridge_University_Cricket_Club:0.9854141851751226	Test_cricket:0.9626221807945345
+chain link wood fence material	Fence:0.970274701249053	Material:0.9671191466230554	Chain-link_fencing:0.9655297205427946
+fence material	Electric_fence:0.9963187347162765	Fence:0.991286381231189	Material:0.9911664278918135
+long-term care insurance	Long-term_care_insurance:0.9998292054603852	Long-term_care:0.992549108109386
+long-term care insurance wiki	Long-term_care_insurance:0.9961320550864552	Long_term_care_insurance:0.994245501565948	Wiki:0.9924711111120328	Long-term_care:0.9919559507711466
+define: long-term care insurance	Long_term_care_insurance:0.9993905366346756	Long-term_care:0.9970724200917658	Long-term_care_insurance:0.9914884385219752
+define: "long-term care insurance"	Long-term_care_insurance:0.9994130798882389	Long_term_care_insurance:0.9980050092846144	Long-term_care:0.9923545458487462	Long-term_care_insurance_in_Germany:0.010696166103081975
+long-term care insurance review	Long-term_care_insurance:0.9968220755392052	Long-term_care:0.9934403358760653	Peer_review:0.018779439559235046
+long-term care insurance comparisons -job	Long-term_care_insurance:0.9949784308769313	Job_(role):0.9915666092888603	Comparative_religion:0.9912374035435648	Health_insurance:0.2896392948937996	Health_care_in_Canada:0.01738498092841981
+long-term care vs life insurance	Vs._(Pearl_Jam_album):0.10359750235876586	Life_insurance:0.011511210739462393	Long-term_care_insurance:0.009608814600181703	Long-term_care:0.008820426402194765
+long-term care vs life insurance -job	Life_insurance:0.9998262993784809	Health_care:0.9993086650427007	Vs._(Pearl_Jam_album):0.9975655317774874	Health_insurance:0.9934074482469417	Job_(role):0.9887045633828188	Long-term_care:0.2113406858619176
+walmart black friday 2012	Walmart:0.2300578665537024	Black_Friday_(shopping):0.21427148847591504
+black friday 2012	Friday_(Rebecca_Black_song):0.9977931951199285	Black_Friday_(shopping):0.9972529615108467
+glassblowing history	Glass_history:0.9995912109808228	Glassblowing:0.9940479207859392	History:0.9892215570367877
+scientific glassblowing history	History:0.9993052288814126	Science:0.9944152769188137	Glassblowing:0.9890512794047743	Scientific_glassblowing:0.9747203329597678
+scientific glassblowing history Edison	Scientific_method:0.9935666402251421	Science:0.9935323714237783	Glassblowing:0.9927264052924534	Thomas_Edison:0.9729301614038192	History:0.45204680787980317	Scientific_glassblowing:0.1905487091684522
+atari consoles history	Video_game_console:0.9888891546387933	Atari_2600:0.9887024563197885	Atari:0.9710308848926357	History_(TV_channel):0.19701948298271255
+atari consoles	Atari_2600:0.9735914587234268	Video_game_console:0.9734461115913062	Atari:0.34770409859643137
+jenner divorce rumors	Divorce:0.9998586338454316	Kylie_Jenner:0.9835026486734185	Brody_Jenner:0.4013705916335343	Rumors:0.29530376543250153	Bruce_Jenner:0.17490592994326978
+Jenner divorce rumors	Rumors:0.9845424324307066	Bruce_Jenner:0.4012538843422547	Brody_Jenner:0.29563791420801905	Divorce:0.17306154481011374	Kylie_Jenner:0.007436013491351895
+john mccain	USS_John_S._McCain_(DDG-56):0.21004193072684502	John_McCain_presidential_campaign,_2008:0.1707791298169759	John_McCain:0.13870720958393545
+india government policy miss universe	Miss_Universe_2011:0.979298569661638	Miss_Universe_2008:0.41725333361667805	List_of_Miss_Universe_titleholders:0.14232978089149265	Government_of_India:0.04988295451503717	Public_policy:0.04209995024002002	Miss_Universe_1994:0.022489326759180348	India:0.013355698832682287	Miss_India:0.00797935099035224
+"indian government" policy miss universe	Miss:0.3099088167532615	Public_policy:0.15623396111098303	Miss_Universe:0.04662330371469394	Miss_Piggy:0.03620438218982693	Femina_Miss_India:0.03487211846998963	Government_of_India:0.010332562785821127
+craigslist dfw classifieds	Craigslist:0.19522230503508373	Classified_advertising:0.024830488748752537	Dallas–Fort_Worth_metroplex:0.013225849498460195
+craigslist	Craigslist_Joe:0.9632666048064102	Craigslist:0.13564779784776795
+yahoo! calendar	Yahoo!:0.28059212785658877	Yahoo!_Calendar:0.16850959399132004
+jim durham dies	Jim_Durham:0.8347837210631359	Die_(manufacturing):0.8030812481015919	Jim_Henson:0.008297268155548623
+luxembourg wedding	Jacquetta_of_Luxembourg:0.8653981103983097	Luxembourg:0.06574960745519576	Wedding_of_Prince_William_and_Catherine_Middleton:0.06388833247743421	Wedding:0.04241940293376675
+yahoo! mail	Yahoo!_Mail:0.03853738527769404	Yahoo!:0.024832735963140194
+healty recipes	Recipe:0.9975513911878023	Healthy_diet:0.9973264885748759	Health:0.9969333175044434
+healthy meals	Healthy_diet:0.9991494038702566	Meal:0.9990087098720457
+healthy nutrition for infants	Health:0.9999140178502509	Nutrition:0.9992127958028598	Baby_food:0.9711031741931445	Infant:0.9662998559246736
+site	Website:0.9670520788506557
+sheen offers role	Michael_Sheen:0.9658158040365634	Charlie_Sheen:0.9479940461791873
+dog anal glands	Anal_gland:0.9935046647093386	Talk:Anal_glands:0.9723273056701959	Dog:0.9344710078715441
+origami instructions	Instruction_set:0.9717826374693035	Origami:0.925162733969284	Thousand_origami_cranes:0.1734440820790557
+origami dollar	Origami:0.9501095437996947	United_States_dollar:0.23587169342636208	Origami_paper:0.07997483033393954
+kelly carlson	Kelly_Carlson:0.06574839801582921	Johnny_carson:0.026953117078321456
+computer	Computer:0.9306466601271447	Personal_computer:0.6903051196193225
+complete idiot's guide	Complete_Idiot's_Guides:0.593477651227166	The_Complete_Idiot's_Guide_to_Publishing_Science_Fiction:0.5759087266778904	Idiot:0.5509720859463916
+complete idiot	Complete_Idiot's_Guides:0.19367662234624905	Complete_metric_space:0.08160437041929171	Idiot:0.050796982788144325
+swahili recipes	Swahili_language:0.8773997607372825	Flatbread:0.7358082170266864	Polenta:0.21838824460003256	Recipe:0.04370490807235262
+traditional swahili recipes	Swahili_culture:0.796053009825526	Swahili_language:0.5770655182534375	Tradition:0.45044495290612757	Recipe:0.4256532600537103
+google	Google:0.9322355789462793	Google_Earth:0.2236849122368501
+century theaters	Century_Theatres:0.7741945650991602	Century_Theatre_(New_York_City):0.504976555584618	Century_Theater:0.3936412356448417	Century_theaters:0.09117319409226898
+century theaters san francisco	San_Francisco:0.27067176059896836	Fox_Theatre_(San_Francisco,_California):0.2336066337870006	List_of_theatres_in_San_Francisco:0.10409620434368733	Century_Theatres:0.009879219771360739
+century 9 san francisco	San_Francisco:0.45207418132721094	The_Century_Magazine:0.05418889211455958	San_Francisco_Examiner:0.008313651967044727
+google maps	Google_Maps:0.9354943087428635	Google_Maps_(application):0.3133377016165273
+yahoo mail	Yahoo!:0.29609105101660427	Yahoo!_Mail:0.27530323570721854
+aol	AOL:0.8439012232771723	Wikipedia:AOL:0.04743722315562206
+buffalo wild wing	Buffalo_wings:0.8456565472952626	Buffalo_Wild_Wings:0.8019864566100908	Anaheim_Ducks:0.2424176264273969	Buffalo_Sabres:0.19678351091011106
+yahoo mail	Yahoo!_Mail:0.44648738635711016	Yahoo!:0.044698012228580386
+youtube	Youtube:0.8778715968186869	List_of_YouTube_personalities:0.4598383937967293
+suny colleges names	Community_college:0.9999383134908395	SUNY_Broome_Community_College:0.988756819221248	List_of_colleges_and_universities_in_New_York:0.8845953000477572	List_of_State_University_of_New_York_units:0.07519996216511371	Egypt:0.04218685534964683	State_University_of_New_York:0.041991975952804426	College:0.012144107482171268
+number of suny colleges	State_University_of_New_York:0.9811087232008566	University_at_Buffalo,_The_State_University_of_New_York:0.7116599942693189	College:0.654715043255204	SUNY:0.36479045432211243	Number:0.13037985624169698	Community_college:0.08883154884062715	Sonny_Rollins:0.041194200934702795
+suny college bioinformatics degree	College:0.6794840861509024	University_at_Buffalo,_The_State_University_of_New_York:0.6073246248586153	Academic_degree:0.3146446498880438	College_and_university_rankings:0.05415780991964227	Bioinformatics:0.01211919649246425
+map suny albany hospital	Neighborhoods_of_Albany,_New_York:0.9197677177968513	University_at_Albany,_SUNY:0.91103491377883	Albany,_New_York:0.8846390453337176	Map:0.4457757575152025	Hospital:0.4410298097178697
+map "albany hospital" ny	New_york:0.8845991021518294	Taylor_Map_of_New_York:0.197183031249699	Hospital:0.13631936662070646	Albany,_New_York:0.04260636139530073	Map:0.042029500424806666
+france world cup 98 reaction stock market	1998_FIFA_World_Cup:0.2774600929376509	France_national_football_team:0.24984598927931775	Reactionary:0.17669299274441264	France:0.07708213815389606	Stock_market:0.07513287923722332
+france world cup 98 reaction	1998_FIFA_World_Cup_Final:0.9998844706469379	Reactionary:0.9886719127727629	France_national_football_team:0.9765649911995706	France_98:0.9288266849646498	1998_FIFA_World_Cup:0.010530184794150335
+france world cup 98	France_national_football_team:0.9888574125555835	World_Cup_98_(video_game):0.9872244738915363	2014_FIFA_World_Cup:0.94067908782892	1998_FIFA_World_Cup:0.12296885045890853	France_98:0.04841329634164754
+reverbnation	ReverbNation.com:0.9768026794556468	ReverbNation:0.9388048997803486
+Connecticut Fire Academy	Wildfire:0.9306541824727066	National_Fire_Academy:0.07364833380595591	Manchester,_Connecticut:0.03861691110705885	Academy:0.022323550288131176	Connecticut:0.011507861442788456	Arkansas_Fire_Academy:0.009279466500325538
+what is the Connecticut Fire Academy?	Academy:0.1533267523134454	Greenwich,_Connecticut:0.07808067410430694	Wildfire:0.061345144179548255	Connecticut:0.05191549592419983	Waterbury,_Connecticut:0.04876301118091601
+where is the Connecticut Fire Academy?	Academy:0.8533023372108269	Wildfire:0.66067560602804	Connecticut:0.4312034046688002	Greenwich,_Connecticut:0.2255961780458328
